@@ -1,3 +1,3 @@
-# Object-Oriented-Design-and-Programming-CZ2002
+# Object-Oriented-Design-and-Programming
 
 Simple application for Hotel Reservation and Payment System
